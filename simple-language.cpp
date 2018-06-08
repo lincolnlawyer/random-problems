@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/contests/w37/challenges/simple-language/problem
 #include <bits/stdc++.h>
 #include <iostream>
 #include <string>
