@@ -1,2 +1,2 @@
-# simple-language
-Solution to the problem "Simple Language" in Hackerrank's Week of Code 37
+# random-problems
+Solutions to random problems I find on comepetitive programming websites.
